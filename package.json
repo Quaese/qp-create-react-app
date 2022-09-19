@@ -1,0 +1,14 @@
+{
+  "name": "qp-create-react-app",
+  "version": "1.0.2",
+  "description": "Folder structure for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "qp-react-template": "bin/index.js"
+  },
+  "author": "quaese",
+  "license": "ISC"
+}
