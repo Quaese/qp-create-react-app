@@ -22,3 +22,29 @@ src\
     |--store\           # contains store
  |--utils\              # contains utilities
 ```
+
+## npm
+
+Some npm instructions to login/publish/update packages
+
+### login
+
+```
+npm login
+```
+
+### update
+
+From project directory
+
+```
+npm version <new_version_number>
+```
+
+### publish
+
+From project directory
+
+```
+npm publish
+```
